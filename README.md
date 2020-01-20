@@ -10,4 +10,4 @@ Author: Ernesto Rodriguez
 ![](./img/interface.png)
 
 ## Deployed App
-[](https://erodrigueztoimil.github.io/todo_manager/)
+You can find the deployed app [here](https://erodrigueztoimil.github.io/todo_manager/)
